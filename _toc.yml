@@ -1,0 +1,6 @@
+format: jb-book
+root: intro
+chapters:
+  - file: chapters/02_1_theory
+  - file: chapters/02_2_demo
+  - file: chapters/02_3_lab
